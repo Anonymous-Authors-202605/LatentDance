@@ -1,7 +1,7 @@
 # LatentDance: Towards Realistic and Dynamic Character Animation via Identity-Aware Motion Representation 
+Anonymous Github Repository: https://github.com/Anonymous-Authors-202605/LatentDance
 
 ## Quickstart
-
 ### Environment Setup
 ```bash
 # 1. Clone the repository and create a conda environment:
